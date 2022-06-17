@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fbb69af7-f9a0-4e69-ba10-b4eb445e3963/resourceGroups/penguin2/providers/Microsoft.Web/sites/node96logtest",
+    "appService.deploySubpath": "."
+}
